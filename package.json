@@ -1,0 +1,9 @@
+{
+  "name": "apex-isle-server",
+  "version": "1.0.0",
+  "description": "Room-code and quick-match relay server for Apex Isle",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
